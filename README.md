@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi there, I'm Serge Selyanin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Developer with two years of experience in creating applications for the iOS platform and a background as a system engineer.
+An experienced developer of applications for the iOS platform and a background system engineer
 
 ### Stack:
 - Swift, OOP, UIKit, SwiftUI, Combine, Observation, base HTML
