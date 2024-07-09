@@ -8,7 +8,7 @@ An experienced developer of applications for the iOS platform and a background s
 - iOS SDK, Auto Layout, Interface Builder, ARC, Apple HIG, SPM, CocoaPods
 - Git, GitHub, GitLab, Jira, Kaiten
 - SOLID, MVC, MVP, MVVM, VIPER, Clean Swift
-- GCD, Async-Await, JSON, Rest-API, Alamofire, URLSession, WebSocket, Rest API
+- GCD, Async-Await, JSON, Rest-API, Alamofire, URLSession, Rest API
 - Push Notifications, In-App-Purchases, Moya
 - Realm, Firebase, Kingfisher, UserDefaults, CoreData, KeyChain, WebView
 
