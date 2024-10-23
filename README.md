@@ -5,11 +5,12 @@ An experienced developer of applications for the iOS platform and a background s
 
 ### Stack:
 - Swift, OOP, POP, UIKit, SwiftUI, Combine, Observation, base HTML & HTTP
-- iOS SDK, Auto Layout, Interface Builder, ARC, Apple HIG, SPM, CocoaPods
-- Git, GitHub, GitLab, Jira, Kaiten
-- SOLID, MVC, MVP, MVVM, VIPER, Clean Swift
-- GCD, Async-Await, JSON, Rest-API, Alamofire, URLSession
-- Realm, Firebase, Kingfisher, UserDefaults, CoreData, KeyChain
+- iOS SDK, ARC, AutoLayout, Interface Builder, xib, SnapKit, PinLayout
+- Git, GitHub, GitLab, Jira, Kaiten, Figma, Apple HIG, SPM, CocoaPods
+- SOLID, MVC, MVP, MVVM, VIPER, Clean Swift, DRY, KISS, YAGNI
+- GCD, Structured Concurrency, OperationQueue, Alamofire, URLSession, JSON, Rest-API
+- Realm, CoreData, SQLite, Firestore, Kingfisher, KeyChain, UserDefaults
+- AppMetrica, Firebase Analytics, Crashlytics
 
 and more...
 
