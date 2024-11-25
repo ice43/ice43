@@ -22,12 +22,12 @@ and more...
 //<img src="https://img.shields.io/badge/linkedin:  selyanin-sergey-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 //</a>
 
- -->
- 
 <br>
 
-<a href="mailto:43mngt@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  43mngt@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+ -->
+
+<a href="mailto:serge.selyanin@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  serge.selyanin@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
 
