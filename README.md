@@ -16,9 +16,9 @@ and more...
 
 ## <b> Connect</b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2w0ODFvYzk2eWFzazdlbnkxMWg0emx6eXY0djFvZTZxdXY2bmhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Hilkh6OJyJ3eJLvSJ/source.gif" width ="80">
 
-///<a href="https://linkedin.com/in/sergei-selianin" target="_blank">
-///<img src="https://img.shields.io/badge/linkedin:  selyanin-sergey-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-///</a>
+//<a href="https://linkedin.com/in/sergei-selianin" target="_blank">
+//<img src="https://img.shields.io/badge/linkedin:  selyanin-sergey-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+//</a>
 
 <br>
 
